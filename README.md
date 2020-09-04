@@ -1,4 +1,4 @@
-# chat_room
+# forum
 
-Chat room made with python using the libraries thread and socket
-It is a chat room that is like those forums that when you connect, you create your username and can send messages to everyone present on the chatroom
+forum like  made with python using the libraries thread and socket
+It is a forum that when you're connected, you create your username and can send messages to everyone present
